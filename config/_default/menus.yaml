@@ -1,0 +1,45 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Workshop Description
+    url: '#description'
+    weight: 10
+  - name: Shared Task
+    url: '#shared-task'
+    weight: 20
+  - name: Topics of Interest
+    url: '#topics'
+    weight: 30
+  - name: Important Dates
+    url: '#dates'
+    weight: 40
+  - name: Submission
+    url: '#submission'
+    weight: 50 
+  - name: Committees
+    url: '#committees'
+    weight: 60
+  - name: Previous OSACT Proceedings
+    url: https://scholar.google.com/citations?user=YmKaJR4AAAAJ&hl=en&authuser=2
+    weight: 70  
+  - name: Keynote Speaker
+    url: '#keynote'
+    weight: 80
+  - name: Accepted Papers
+    url: '#accepted-papers'
+    weight: 90
+  - name: Worshop Program
+    url: '#workshop-program'
+    weight: 100
+  - name: OSACT Awards
+    url: '#Awards'
+    weight: 120 
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
