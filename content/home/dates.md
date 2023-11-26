@@ -14,10 +14,11 @@ design:
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <p class="lead"><font size = "4">
-			Submission deadline: April 10, 2022 <br>
-Notification of acceptance: May 1, 2022 <br>
-Camera Ready of manuscripts: May 25, 2022<br>
-Workshop date: June 20, 2022
+  <br><b><b>Submission due:</b></b> Feb 20, 2024<br>
+   <b><b>Notification of acceptance:</b></b> March 20, 2024<br>
+   <b><b>Camera-ready papers due:</b></b> March 25, 2024<br>
+   <b><b>Workshop date:</b></b> TBD – May 2024
+
 </font></p>
           </div>
         </div>
