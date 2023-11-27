@@ -10,22 +10,28 @@ main:
   - name: Shared Task
     url: '#shared-task'
     weight: 20
-  - name: Topics of Interest
+  - name: Workshop Topics
     url: '#topics'
     weight: 30
+  - name: Paper Types and Formats
+    url: '#paper-format'
+    weight: 40
   - name: Important Dates
     url: '#dates'
-    weight: 40
+    weight: 50
   - name: Submission
     url: '#submission'
-    weight: 50 
+    weight: 60 
   - name: Committees
     url: '#committees'
-    weight: 60
+    weight: 70
   - name: Previous OSACT Proceedings
     url: https://scholar.google.com/citations?user=YmKaJR4AAAAJ&hl=en&authuser=2
-    weight: 70  
-
+    weight: 90
+  - name: OSACT5
+    url: 
+    weight: 80
+     
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV

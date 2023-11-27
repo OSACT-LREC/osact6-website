@@ -23,7 +23,7 @@ design:
 
 </ul>
 			<h3>Programme Committee (Tentative)</h3>
-			<ul class="lead">
+			<ul class="lead"><font size = "4">
         <li>Nizar Habash, New York University Abu Dhabi, UAE</li>
         <li>Wajdi Zaghouani, Hamad Bin Khalifa University, Qatar</li>
         <li>Mahmoud El-Haj, Lancaster University, UK</li>
