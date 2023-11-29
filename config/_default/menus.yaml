@@ -29,7 +29,7 @@ main:
     url: https://scholar.google.com/citations?user=YmKaJR4AAAAJ&hl=en&authuser=2
     weight: 90
   - name: OSACT5
-    url: 
+    url: https://OSACT5-LREC.github.io
     weight: 80
      
 # Link to a PDF of your resume/CV from the menu.
