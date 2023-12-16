@@ -14,10 +14,10 @@ design:
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <p class="lead"><font size = "4">
-  <br><b><b>Submission due:</b></b> Feb 20, 2024<br>
-   <b><b>Notification of acceptance:</b></b> March 20, 2024<br>
-   <b><b>Camera-ready papers due:</b></b> March 25, 2024<br>
-   <b><b>Workshop date:</b></b> TBD – May 2024
+  <br><b><b>Submission due:</b></b> Feb 25, 2024<br>
+   <b><b>Notification of acceptance:</b></b> March 25, 2024<br>
+   <b><b>Camera-ready papers due:</b></b> March 30, 2024<br>
+   <b><b>Workshop date:</b></b> May 25, 2024
 
 </font></p>
           </div>
