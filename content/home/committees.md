@@ -54,7 +54,18 @@ design:
   <li>Saied Alshahrani, Clarkson University, USA</li>
   <li>Lubna Alhenaki, Majmaah University, KSA</li>
   <li>Fatimah Alqahtani, Jazan University, KSA</li>
-
+    <li>Eman Albilali, King Saud Univeristy, KSA</li>
+    <li>Ahmed Abdelali, SDAIA, KSA</li>
+    <li>Mohamed Al-Badrashiny, aiXplain Inc., US</li>
+    <li>Firoj Alam, QCRI, Qatar</li>
+    <li>Norah Alzahrani, SDAIA, KSA</li>
+    <li>Nadir Durrani, QCRI, Qatar</li>
+    <li>Ashraf Elneima, aiXplain Inc., US</li>
+    <li>Nizar Habash, NYU-AD, UAE</li>
+    <li>Walid Magdy, University of Edinburgh, UK</li>
+    <li>Zaid Alyafeai, KFUPM, KSA</li>
+    <li>Injy Hamed, NYU-AD, UAE</li>
+    <li>Fouzi Harrag, Ferhat Abbas University, Algeria</li>
   </ul>
 
 <br>
