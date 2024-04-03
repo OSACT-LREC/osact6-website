@@ -22,6 +22,9 @@ main:
   - name: Submission
     url: '#submission'
     weight: 60 
+  - name: Accepted Papers
+    url: '#accepted-papers'
+    weight: 65 
   - name: Committees
     url: '#committees'
     weight: 70
