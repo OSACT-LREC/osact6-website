@@ -25,15 +25,21 @@ main:
   - name: Accepted Papers
     url: '#accepted-papers'
     weight: 65 
+  - name: Keynote Speaker
+    url: '#keynote-speaker'
+    weight: 70 
   - name: Committees
     url: '#committees'
-    weight: 70
+    weight: 75
+  - name: Workshop Program
+    url: '#workshop-program'
+    weight: 80
   - name: Previous OSACT Proceedings
     url: https://scholar.google.com/citations?user=YmKaJR4AAAAJ&hl=en&authuser=2
     weight: 90
   - name: OSACT5
     url: https://OSACT5-LREC.github.io
-    weight: 80
+    weight: 85
      
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
