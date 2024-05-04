@@ -176,7 +176,7 @@ A.top {
 	  9:10  - 9:50 &nbsp;&nbsp;
 	</td>
 	<td>
-	  Keynote Talk:
+	  Keynote Talk: Towards Arab-Centric Large Language Models
 <br><i>Muhammad Abdul-Mageed</i>
 	  
 </td>
@@ -233,11 +233,11 @@ A.top {
 	  
 	    
 <!-- <a href="https://softconf.com/lrec-coling2024/osact2024/pub/program/3.html" target="_blank"> -->
-<b>Arabic Speech Recognition of zero-resourced Languages: A case of Shehri (Jibbali) Language</b>
-	  </a><br>
-	  <em>Norah A. Alrashoudi<sup>1</sup>,&nbsp;Omar Said Alshahri<sup>2</sup>,&nbsp;Hend Al-Khalifa<sup>1</sup></em><br>
-	  <sup>1</sup>King Saud University, <sup>2</sup>Islamic Sciences Institute, Diwan of the Royal Court.
-	</td>
+<b>CLEANANERCorp: Identifying and Correcting Incorrect Labels in the ANERcorp Dataset</b>
+    </a><br>
+    <em>Mashael AlDuwais<sup>1</sup>,&nbsp;Hend Al-Khalifa<sup>1</sup>,&nbsp;Abdulmalik AlSalman<sup>2</sup></em><br>
+    <sup>1</sup>King Saud University, <sup>2</sup>King Saud Univ.
+  </td>
       </tr>
     </tbody></table>
   </td>
@@ -527,11 +527,11 @@ A.top {
 	  
 	    
 <!-- <a href="https://softconf.com/lrec-coling2024/osact2024/pub/program/16.html" target="_blank"> -->
-<b>CLEANANERCorp: Identifying and Correcting Incorrect Labels in the ANERcorp Dataset</b>
-	  </a><br>
-	  <em>Mashael AlDuwais<sup>1</sup>,&nbsp;Hend Al-Khalifa<sup>1</sup>,&nbsp;Abdulmalik AlSalman<sup>2</sup></em><br>
-	  <sup>1</sup>King Saud University, <sup>2</sup>King Saud Univ.
-	</td>
+<b>Arabic Speech Recognition of zero-resourced Languages: A case of Shehri (Jibbali) Language</b>
+    </a><br>
+    <em>Norah A. Alrashoudi<sup>1</sup>,&nbsp;Omar Said Alshahri<sup>2</sup>,&nbsp;Hend Al-Khalifa<sup>1</sup></em><br>
+    <sup>1</sup>King Saud University, <sup>2</sup>Islamic Sciences Institute, Diwan of the Royal Court.
+  </td>
       </tr>
     </tbody></table>
   </td>
