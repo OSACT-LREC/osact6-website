@@ -34,12 +34,27 @@ main:
   - name: Workshop Program
     url: '#workshop-program'
     weight: 80
-  - name: Previous OSACT Proceedings
+  - name: Previous Proceedings
     url: https://scholar.google.com/citations?user=YmKaJR4AAAAJ&hl=en&authuser=2
     weight: 90
-  - name: OSACT5
-    url: https://OSACT5-LREC.github.io
+  # - name: OSACT5
+  #   url: https://OSACT5-LREC.github.io
+  #   weight: 85
+  # Dropdown menu
+  - name: Previous Workshops
+    url: '#'
     weight: 85
+    identifier: previous-workshops
+
+  - name: OSACT 5 (LREC 2022)
+    url: https://osact5-lrec.github.io
+    parent: previous-workshops
+    weight: 2
+
+  - name: OSACT 6 (LREC 2024)
+    url: 'https://osact6-lrec.github.io/'
+    parent: previous-workshops
+    weight: 1
      
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
