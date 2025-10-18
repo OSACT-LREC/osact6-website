@@ -15,54 +15,37 @@ design:
           <div class="col-lg-8 mx-auto">
             <h3>Organizing Committee</h3>
             <ul class="lead"><font size = "4">
-               <li>Hend Al-Khalifa, King Saud University, KSA</li>
-<li>Hamdy Mubarak, Qatar Computing Research Institute, Qatar</li>
-<li>Kareem Darwish, aiXplain Inc., US</li>
-<li>Tamer Elsayed, Qatar University, Qatar</li>
-<li>Mona Ali, Northeastern University, Canada, </li>
+               <li>Hend Al-Khalifa, Professor, King Saud University, Riyadh, Saudi Arabia, hendk@ksu.edu.sa</li>
+<li>Mo El-Haj, Reader, VinUniversity, Vietnam, Lancaster University, UK, elhaj.m@vinuni.edu.vn</li>
+<li>Saad Ezzini, Assistant Professor, King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia, saad.ezzini@kfupm.edu.sa</li>
 
 </ul>
 			<h3>Programme Committee</h3>
 			<ul class="lead"><font size = "4">
-  <li>Ganesh Jawahar, University of British Columbia, Canada</li>
-  <li>Go Inoue, Mohamed bin Zayed University of Artificial Intelligence, UAE</li>
-  <li>Bassam Haddad, University of Petra, Jordan</li>
-  <li>Hamada Nayel, Banha University, Egypt</li>
-  <li>Ibrahim Abu Farha, The University of Sheffield, UK</li>
-  <li>Imed Zitouni, Google, USA</li>
-  <li>Almoataz B. Al-Said, Cairo University, Egypt</li>
-  <li>Mourad Abbas, Assistant Secretary-General of Al-Tnall Al-Arabi in Algeria</li>
-  <li>Nada Ghneim, Arab International University, Syria</li>
-  <li>Omar Trigui, University of Sousse, Tunisia</li>
-  <li>Salima Harrat, École Normale Supérieure de Bouzaréah (ENSB), Algeria</li>
-  <li>Salima Mdhaffar, Avignon University (LIA), France</li>
-  <li>Kamel Smaili, University of Lorraine, France</li>
-  <li>Violetta Cavalli-Sforza, Al Akhawayn University, Morocco</li>
-  <li>Wassim El-Hajj, American University of Beirut, Lebanon</li>
-  <li>Wissam Antoun, ALMAnaCH - INRIA Paris, France</li>
-  <li>Nada Almarwani, Taibah University, KSA</li>
-  <li>Samah Aloufi, Taibah University, KSA</li>
-  <li>Imene Bensalem, Constantine 2 University, Algeria</li>
-  <li>Abdelkader El Mahdaouy, Mohammed VI Polytechnic University, Morocco</li>
-  <li>Amr Keleg, University of Edinburgh, UK</li>
-  <li>Wajdi Zaghouani, Hamad Bin Khalifa University, Qatar</li>
-  <li>Amr El-Gendy, Arab Academy, Egypt</li>
-  <li>Maha Alamri, AlBaha University, KSA</li>
-  <li>Saied Alshahrani, Clarkson University, USA</li>
-  <li>Lubna Alhenaki, Majmaah University, KSA</li>
-  <li>Fatimah Alqahtani, Jazan University, KSA</li>
-    <li>Eman Albilali, King Saud Univeristy, KSA</li>
-    <li>Ahmed Abdelali, SDAIA, KSA</li>
-    <li>Mohamed Al-Badrashiny, aiXplain Inc., US</li>
-    <li>Firoj Alam, QCRI, Qatar</li>
-    <li>Norah Alzahrani, SDAIA, KSA</li>
-    <li>Nadir Durrani, QCRI, Qatar</li>
-    <li>Ashraf Elneima, aiXplain Inc., US</li>
-    <li>Nizar Habash, NYU-AD, UAE</li>
-    <li>Walid Magdy, University of Edinburgh, UK</li>
-    <li>Zaid Alyafeai, KFUPM, KSA</li>
-    <li>Injy Hamed, NYU-AD, UAE</li>
-    <li>Fouzi Harrag, Ferhat Abbas University, Algeria</li>
+  <li>Nizar Habash, New York University Abu Dhabi, UAE</li>
+        <li>Wajdi Zaghouani, Hamad Bin Khalifa University, Qatar</li>
+        <li>Wassim El-Hajj, American University of Beirut, Lebanon</li>
+        <li>Irina Temnikova, Qatar Computing Research Institute, Qatar</li>
+        <li>Khaled Shaalan, The British University in Dubai, UAE</li>
+        <li>Fethi Bougares, Université du Maine, Avenue Laënnec, France</li>
+        <li>Hazem Hajj, American University of Beirut, Lebanon</li>
+        <li>Nadi Tomeh, LIPN University of Paris 13, Sorbonne Paris Cité, Paris, France</li>
+        <li>Muhammad Abdul-Mageed, The University of British Columbia, Canada</li>
+        <li>Lamia Hadrich Belguith, University of Sfax, Tunisia</li>
+        <li>Reem Suwaileh, Qatar University, Qatar</li>
+        <li>Maram Hasanain, Qatar University, Qatar</li>
+        <li>Mucahid Kutlu, TOBB University, Turkey</li>
+        <li>Wejdan AlKhaldi, King Saud University, Saudi Arabia</li>
+        <li>Manal Albahlal, King Saud University, Saudi Arabia</li>
+        <li>Fatemah Husain, Kuwait University, Kuwait</li>
+        <li>Mustafa Jarrar, Bir Zeit University, Palestine</li>
+        <li>Nada Ghneim, Higher Institute for Applied Sciences and Technology, Syria</li>
+        <li>Salam Khalifa, Stony Brook University, USA</li>
+        <li>Salima Harrat, École Normale Supérieure (Bouzaréah), Algeria</li>
+        <li>Salima Mdhaffar, Le Mans University, France</li>
+        <li>Maha Alamri, AlBaha University, Saudi Arabia</li>
+        <li>Saied Alshahrani, Clarkson University, USA</li>
+        <li>Lubna Alhenaki, Majmaah University, Saudi Arabia</li>
   </ul>
 
 <br>

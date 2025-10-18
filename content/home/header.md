@@ -23,9 +23,9 @@ active: true
     <div class="col-md-6 text-center text-md-left">
       <div class="container text-center">
         <h1>Welcome to OSACT7</h1> <br>
-        <p style="font-size: 1.5rem;"><b>The 6th Workshop on Open-Source Arabic Corpora and Processing Tools <span style= "color: red">(Hybrid)</span></b></p>
+        <p style="font-size: 1.5rem;"><b>The 7th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT7) with 7 Shared Tasks <span style= "color: red">(Hybrid)</span></b></p>
         <p style="font-size: 1.2rem;">with Shared Tasks on Arabic LLMs Hallucination and Dialect to MSA Machine Translation</p>
-        <p style="font-size: 1.rem;">Lingotto Conference Centre - Torino (Italia). <br> 20-25 May, 2024. <br> Co-located with <a href="https://lrec-coling-2024.org/">LREC-COLING 2024</a></p>
+        <p style="font-size: 1.rem;">Palma, Mallorca (Spain) <br> 11-16 May 2026. <br> Co-located with <a href="https://lrec2026.info/">LREC-COLING 2026</a></p>
       </div>
     </div>
   </div>
