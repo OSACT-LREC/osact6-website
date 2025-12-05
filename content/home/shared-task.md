@@ -14,7 +14,7 @@ design:
   <div class="row">
     <div class="col-lg-8 mx-auto">
       <p class="lead">
-        <strong>OSACT7</strong> will host seven shared tasks, each organised by a dedicated team:
+        <strong>OSACT7</strong> will host five shared tasks, each organised by a dedicated team:
       </p>
       <ol>
         <li>
@@ -22,11 +22,7 @@ design:
           (<em>Hamad Bin Khalifa University & Nazarbayev University</em>).
         </li>
         <li>
-          <strong>Nahw:</strong> Grammar Error Detection & Correction 
-          (<em>Qatar Computing Research Institute</em>).
-        </li>
-        <li>
-          <strong>Arabic Politeness Detection</strong> 
+          <strong>ADAB: Arabic Politeness Detection</strong> 
           (<em>King Saud University, Hail & Cadi Ayyad Universities</em>).
         </li>
         <li>
@@ -34,16 +30,12 @@ design:
           (<em>KFUPM, Lancaster University & VinUniversity</em>).
         </li>
         <li>
-          <strong>Arabic Humour Generation</strong> 
+          <strong>AraHAHA: Arabic Humour Generation</strong> 
           (<em>King Saud University</em>).
         </li>
         <li>
           <strong>KSAA 2026:</strong> Arabic Speech Dictation with Automatic Diacritisation 
           (<em>King Salman Academy and Princess Nourah University</em>).
-        </li>
-        <li>
-          <strong>FITRA 2026:</strong> Intuitive Thinking and Reasoning in Pan-Arab Commonsense 
-          (<em>University of Luxembourg, UM6P, KFUPM, Sorbonne, Lancaster, Ibn Tofail Universities</em>).
         </li>
       </ol>
     </div>
