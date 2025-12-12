@@ -58,7 +58,5 @@ design:
     </ul>
   </li>
 </ol>
-
-    </div>
   </div>
 </div>
