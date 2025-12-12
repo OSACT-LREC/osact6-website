@@ -17,14 +17,15 @@ design:
         <strong>OSACT7</strong> will host five shared tasks, each organised by a dedicated team:
       </p>
       <ol>
-       <li>
+      <li>
   <strong>Shared Task 1:</strong> QIAS 2026: Questions & Answers in Islamic Studies Assessment
   <ul>
-    <li>Organizers: Abdessalam Bouchekif, Samer Rashwani, Mutaz Al-Khatib, Emad Mohamed, Mohammed Ghaly (<em>Hamad Bin Khalifa University & Nazarbayev University</em>)</li>
-    <li>For more information, please visit the shared task website: coming soon</li>
-    <li>System paper submission link: coming soon</li>
+    <li><strong>Organizers:</strong> Abdessalam Bouchekif, Samer Rashwani, Mutaz Al-Khatib, Emad Mohamed, Mohammed Ghaly (<em>Hamad Bin Khalifa University & Nazarbayev University</em>)</li>
+    <li>For more information, please visit the shared task website: <strong>coming soon</strong></li>
+    <li>System paper submission link: <strong>coming soon</strong></li>
   </ul>
 </li>
+
         <li>
           <strong>ADAB: Arabic Politeness Detection</strong> 
           (<em>King Saud University, Hail & Cadi Ayyad Universities</em>).
