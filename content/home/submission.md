@@ -13,16 +13,17 @@ design:
 <div class="container">
   <div class="row">
     <div class="col-lg-8 mx-auto">
+
       <p class="lead">
         We follow the <strong>LREC 2026</strong> standards for submission format and guidelines.
       </p>
 
-      <p>
-        Submissions must be made via the official submission system:
+      <div class="mb-3">
+        <strong>Submission link:</strong><br>
         <a href="https://softconf.com/lrec2026/OSACT7/" target="_blank" rel="noopener noreferrer">
           https://softconf.com/lrec2026/OSACT7/
         </a>
-      </p>
+      </div>
 
       <ul>
         <li>
@@ -35,6 +36,7 @@ design:
           <strong>Shared task papers:</strong> up to 4 pages (excluding references). Suitable for focused contributions, negative results, datasets, or system descriptions.
         </li>
       </ul>
+
     </div>
   </div>
 </div>
