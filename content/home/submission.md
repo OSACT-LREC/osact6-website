@@ -16,6 +16,14 @@ design:
       <p class="lead">
         We follow the <strong>LREC 2026</strong> standards for submission format and guidelines.
       </p>
+
+      <p>
+        Submissions must be made via the official submission system:
+        <a href="https://softconf.com/lrec2026/OSACT7/" target="_blank" rel="noopener noreferrer">
+          https://softconf.com/lrec2026/OSACT7/
+        </a>
+      </p>
+
       <ul>
         <li>
           <strong>Long papers:</strong> up to 8 pages (excluding references). Substantial, original, and completed work.
