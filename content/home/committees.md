@@ -53,6 +53,7 @@ design:
   <li>Manal Albahlal, King Saud University, Saudi Arabia</li>
   <li>Wafa Aissa, UCLouvain, Belgium</li>
   <li>Bassam Haddad, University of Petra, Jordan</li>
+  <li>Noof Alfear, King Saud University, Saudi Arabia</li>
 </ul>
 
 <br>
