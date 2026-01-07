@@ -61,6 +61,7 @@ design:
 <li>Amal Htait, Aston University, United Kingdom</li>
 <li>Oussama Ben Khiroun, University of Manouba, Tunisia</li>
 <li>Nadia Ghezaiel, University of Ha'il, Saudi Arabia</li>
+<li>Assal A. M. Alqudah, Al-Balqa Applied University, Jordan</li>
 
 </ul>
 
