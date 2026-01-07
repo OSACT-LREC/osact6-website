@@ -54,6 +54,7 @@ design:
   <li>Wafa Aissa, UCLouvain, Belgium</li>
   <li>Bassam Haddad, University of Petra, Jordan</li>
   <li>Noof Alfear, King Saud University, Saudi Arabia</li>
+    <li>Amr Keleg, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), United Arab Emirates</li>
 </ul>
 
 <br>
