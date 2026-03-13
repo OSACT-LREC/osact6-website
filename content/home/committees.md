@@ -67,7 +67,7 @@ design:
 <li>Hamza Alami, L3IA Laboratory, USMBA, Morocco</li>
 <li>Abdulhamid Abubakar, Center for Cyberspace Studies, NSU Keffi, Nigeria</li>
 <li>Kamel Gaanoun, INSEA, Morocco</li>
-
+<li>Mariam M. Biltawi, Al Hussein Technical University, Jordan</li>
 
 </ul>
 
