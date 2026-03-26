@@ -1,3 +1,4 @@
+```markdown
 ---
 widget: blank
 headless: true
@@ -84,3 +85,4 @@ design:
     </div>
   </div>
 </div>
+```
