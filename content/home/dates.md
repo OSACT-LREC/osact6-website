@@ -27,7 +27,7 @@ design:
           <strong>Camera-ready deadline:</strong> March 30, 2026
         </li>
         <li>
-          <strong>Workshop Date:</strong> May 11, 2026
+          <strong>Workshop Date:</strong> May 11, 2026 <strong>(Morning session (9-1) in Room 10)</strong>
         </li>
       </ul>
     </div>
