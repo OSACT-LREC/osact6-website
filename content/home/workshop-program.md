@@ -13,7 +13,7 @@ Opening Remarks
 
 ---
 
-### 09:05 – 10:30 &nbsp;|&nbsp; Session 1: Sentiment Analysis, LLMs & Applications
+### 09:05 – 10:30 &nbsp;|&nbsp; Session 1: Sentiment Analysis, Information Retrieval & Language Resources
 
 **Sentiment Analysis**
 
@@ -51,7 +51,7 @@ Opening Remarks
 
 ---
 
-### 11:00 – 12:30 &nbsp;|&nbsp; Session 2: Machine Translation, Dialects & Language Resources
+### 11:00 – 12:30 &nbsp;|&nbsp; Session 2: Machine Translation, Dialects & LLM Applications
 
 **Machine Translation**
 
@@ -85,7 +85,7 @@ Opening Remarks
 
 ---
 
-### 12:30 – 12:55 &nbsp;|&nbsp; Session 3: Shared Tasks
+### 12:30 – 12:55 &nbsp;|&nbsp; Session 3: Arabic NLP Shared Tasks: Overview Papers
 
 1. **The AdabEval 2026 Shared Task on Arabic Politeness Detection**  
    Reem Fahad Alqifari, Hend Al-Khalifa, Nadia Ghezaiel, Maria Bounnit, Hend Hamed Alhazmi, Ameera Masoud Almasoud, Sharefah Ahmed Al-Ghamdi and Noof Abdullah Alfear
