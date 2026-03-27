@@ -30,21 +30,21 @@ Opening Remarks
 4. **When Bigger Isn't Better: Evaluating LLMs for Arabic Sentiment Analysis**  
    Mohamed Ibrahim, Abdullah Makki, Youssef Barakat, Nour Samy and Sarah AlHumoud
 
-**LLM Reasoning & Inference**
-
-5. **On LLM Prompting Techniques for Arabic Language Arithmetic Reasoning**  
-   Reem Alenezi and Ayed Atallah Salman
-
-6. **SHEINfer: Implicit Product Category Inference from Arabic E-commerce Reviews**  
-   Hend Al-Khalifa
-
 **Retrieval & Multimodal**
 
-7. **GATE-Reranker: A Strong Arabic Cross-Encoder for Document Reranking**  
+5. **GATE-Reranker: A Strong Arabic Cross-Encoder for Document Reranking**  
    Omer Nacar, Omar Elshehy, Mohamed Zaytoon and Khloud Al Jallad
 
-8. **How Foundation Models behave for Arabic Image Captioning?**  
+6. **How Foundation Models behave for Arabic Image Captioning?**  
    Khaoula Dahimi, Amel BELABBACI, Hadda Cherroun and Abdelhamid Haouhat
+
+**Corpora & Language Resources**
+
+7. **DIA2 - A Comprehensive and Diverse Diacritized Arabic Corpus for NLP Research**  
+    Fatima Dekmak, Shady Elbassuoni, Khaled Shaban, Hazem Hajj, Wassim El-Hajj, Yasmine Abu Adla and Buthaina Alabrash
+
+8. **CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech**  
+    youssef saidi, Haroun Elleuch and Fethi Bougares
 
 ---
 
@@ -77,18 +77,33 @@ Opening Remarks
 14. **Doing More with Less: Data Augmentation for Sudanese Dialect Automatic Speech Recognition**  
     Ayman Mansour
 
-**Corpora & Language Resources**
+**LLM Reasoning & Inference**
 
-15. **DIA2 - A Comprehensive and Diverse Diacritized Arabic Corpus for NLP Research**  
-    Fatima Dekmak, Shady Elbassuoni, Khaled Shaban, Hazem Hajj, Wassim El-Hajj, Yasmine Abu Adla and Buthaina Alabrash
+15. **On LLM Prompting Techniques for Arabic Language Arithmetic Reasoning**  
+   Reem Alenezi and Ayed Atallah Salman
 
-16. **CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech**  
-    youssef saidi, Haroun Elleuch and Fethi Bougares
+16. **SHEINfer: Implicit Product Category Inference from Arabic E-commerce Reviews**  
+   Hend Al-Khalifa
 
 ---
 
 ### 12:30 – 12:55 &nbsp;|&nbsp; Session 3: Shared Tasks
 *5 Papers – ~5 min each*
+
+1. **The AdabEval 2026 Shared Task on Arabic Politeness Detection**  
+   Reem Fahad Alqifari, Hend Al-Khalifa, Nadia Ghezaiel, Maria Bounnit, Hend Hamed Alhazmi, Ameera Masoud Almasoud, Sharefah Ahmed Al-Ghamdi and Noof Abdullah Alfear
+
+2. **QIAS 2026: Overview of the Shared Task on Islamic Inheritance Reasoning**  
+   Abdessalam Bouchekif, Somaya Eltanbouly, Shahd Gaben, Mohammed Ghaly, Samer Rashwani, MOHAMED Emad and Heba Sbahi
+
+3. **KSAA-2026 Shared Task on Arabic Speech Dictation with Automatic Diacritization**  
+   Asma Ali Al Wazrah, Waad Alshammari, Rawan Almatham, Raghad Al-rasheed, Afrah Abdulaziz Altamimi, Rufael Marew, Sawsan Alqahtani, Hanan Aldarmaki, Abdullah I. Alharbi, Abdulrahman Saeed Alshehri, Mohamed Assar, Amal Almazrua and Abdulrahman Alosaimy
+
+4. **ARHAHA 2026: The Shared Task on Arabic Humor Automatic Generation**  
+   Ameera Masoud Almasoud, Hend Al-Khalifa, Reem Fahad Alqifari, Nourah Alangari and Manal M. Albahlal
+
+5. **AraSentEval 2026: A Shared Task on Sentiment Analysis and Swapping in Arabic**  
+   Saad Ezzini, Shadi Abudalfa, Maram I. Alharbi, Salmane Chafik, Hamzah Luqman, Mo El-Haj, Paul Rayson and Reem Alotaibi
 
 ---
 
