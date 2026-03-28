@@ -59,7 +59,7 @@ design:
 <li>Amal Htait, Aston University, United Kingdom</li>
 <li>Nourah Alangari, King Saud University, Saudi Arabia</li>
 <li>Nadia Ghezaiel, University of Ha'il, Saudi Arabia</li>
-<li> Khloud Al Jallad, SySSR, Syria</li>
+<li> Khloud Al Jallad, Syrian Society for Startups and Research (SySSR), Syria</li>
 <li>Paul Rayson, Lancaster University, United Kingdom</li>
 <li>Hamza Alami, L3IA Laboratory, USMBA, Morocco</li>
 <li>Abdulhamid Abubakar, Center for Cyberspace Studies, NSU Keffi, Nigeria</li>
