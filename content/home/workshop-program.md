@@ -81,33 +81,47 @@ Opening Remarks
 - *(Overview)* **The AdabEval 2026 Shared Task on Arabic Politeness Detection**  
   Reem Fahad Alqifari, Hend Al-Khalifa, Nadia Ghezaiel, Maria Bounnit, Hend Hamed Alhazmi, Ameera Masoud Almasoud, Sharefah Ahmed Al-Ghamdi and Noof Abdullah Alfear
 
-- *(Lightning Talk)* GHAD NLP — Rank #1 (Subtasks A & B)
-- *(Lightning Talk)* MOSKA-NLP — Rank #2 (Subtask A)
-- *(Lightning Talk)* SHU — Rank #2 (Subtask B)
+- *(Lightning Talk)* **GHAD NLP at AdabEval2026: Transformer-Based Approach for Arabic Politeness and Pragmatic Category Classification**  
+  Ghada Alfattni and Ghader Kurdi
+
+- *(Lightning Talk)* **MOSKA-NLP at AdabEval 2026: Feature-Enriched Ensembling for Arabic Politeness Detection**  
+  Nina A. Andriyanova-Almaamary
+
+- *(Lightning Talk)* **SHU at AdabEval 2026: Category-Aware Fine-Tuning of MARBERT for Arabic Politeness and Pragmatic Function Classification**  
+  Alla Zwawi and Stephen Wu
 
 **QIAS 2026 — Islamic Inheritance Reasoning**
 
 - *(Overview)* **QIAS 2026: Overview of the Shared Task on Islamic Inheritance Reasoning**  
   Abdessalam Bouchekif, Somaya Eltanbouly, Shahd Gaben, Mohammed Ghaly, Samer Rashwani, MOHAMED Emad and Heba Sbahi
 
-- *(Lightning Talk)* QU-NLP — Rank #4
-- *(Lightning Talk)* PSL — Rank #5
+- *(Lightning Talk)* **QU-NLP at QIAS 2026: Multi-Stage QLoRA Fine-Tuning for Arabic Islamic Inheritance Reasoning**  
+  Mohammad ALSmadi
+
+- *(Lightning Talk)* **PSL at QIAS 2026: Which Models Perform Better in Arabic Inheritance Reasoning?**  
+  Amine Mohammed and Chahinez Bouchekif
 
 **KSAA-2026 — Arabic Speech Dictation with Automatic Diacritization**
 
 - *(Overview)* **KSAA-2026 Shared Task on Arabic Speech Dictation with Automatic Diacritization**  
   Asma Ali Al Wazrah, Waad Alshammari, Rawan Almatham, Raghad Al-rasheed, Afrah Abdulaziz Altamimi, Rufael Marew, Sawsan Alqahtani, Hanan Aldarmaki, Abdullah I. Alharbi, Abdulrahman Saeed Alshehri, Mohamed Assar, Amal Almazrua and Abdulrahman Alosaimy
 
-- *(Lightning Talk)* Thaka — Rank #1
-- *(Lightning Talk)* TantaArabNLP — Rank #2
+- *(Lightning Talk)* **Thaka at KSAA-2026 Task 2: Regularized Fine-Tuning for Arabic Speech Diacritization**  
+  Meshal Abdullah Alamr, Hassan Rshed Alqaeri and Abdullah Aldahlawi
+
+- *(Lightning Talk)* **TantaArabNLP at KSAA-2026 Task 2: Adapting CATT-Whisper for Arabic Speech Dictation with Automatic Diacritization**  
+  Nada Adel Esmaeil, Reda M. Elbasiony and Mohamed T. Faheem
 
 **AraSentEval 2026 — Sentiment Analysis and Swapping**
 
 - *(Overview)* **AraSentEval 2026: A Shared Task on Sentiment Analysis and Swapping in Arabic**  
   Saad Ezzini, Shadi Abudalfa, Maram I. Alharbi, Salmane Chafik, Hamzah Luqman, Mo El-Haj, Paul Rayson and Reem Alotaibi
 
-- *(Lightning Talk)* TTLab — Subtask 1, Rank #2
-- *(Lightning Talk)* Yumnahamdy — Subtask 2, Rank #1
+- *(Lightning Talk)* **TTLab at AraSentEval: SARF (صرف) Sentiment Analysis via Root-based Fusion for Multi-Dialectal Arabic**  
+  Ali Abusaleh, Bhuvanesh Verma and Alexander Mehler
+
+- *(Lightning Talk)* **A Comparative Study of Arabic Sentiment Swap Models for AraSentEval 2026**  
+  Yumna Hamdy, Mohab ElDamhougy, Yomna Eid and Ensaf Hussein
 
 ---
 
