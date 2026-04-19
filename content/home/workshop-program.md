@@ -48,16 +48,6 @@ Opening Remarks
 
 ---
 
-### 11:00 – 12:55 &nbsp;|&nbsp; Session 2: Machine Translation, Dialects, LLM Applications, Language Resources & Shared Tasks
-
-**Machine Translation**
-
-8. **ASCAT: An Arabic Scientific Corpus and Benchmark for Advanced Translation Evaluation**  
-   Serry Sibaee, Khloud Al Jallad, Zineb Yousfi, Israa Elsayed Mohamed Elhosiny, Yousra Yousra El-Ghawi, Batool Balah and Omer Nacar
-
-9. **NAJD-MT: High-Fidelity Saudi Najdi–English Training Data for Bidirectional Neural Machine Translation**  
-   Nour Qandos, Samar Essa Ahmed, Omer Nacar, ahmad alrabghi, Rahaf Saeed Al Hallay, Aya Hamod and Shaden Alsuhaim
-
 ### 11:00 – 12:55 &nbsp;|&nbsp; Session 2: Machine Translation, LLM Applications, Language Resources & Shared Tasks
 
 **Machine Translation**
