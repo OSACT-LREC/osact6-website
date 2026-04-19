@@ -48,7 +48,7 @@ Opening Remarks
 
 ---
 
-### 11:00 – 12:55 &nbsp;|&nbsp; Session 2: Machine Translation, LLM Applications, Language Resources & Shared Tasks
+### 11:00 – 12:15 &nbsp;|&nbsp; Session 2: Machine Translation, LLM Applications & Language Resources
 
 **Machine Translation**
 
@@ -71,8 +71,10 @@ Opening Remarks
 
 13. **CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech**  
     youssef saidi, Haroun Elleuch and Fethi Bougares
-    
-**Shared Tasks**
+
+---
+
+### 12:15 – 12:55 &nbsp;|&nbsp; Session 3: Arabic NLP Shared Tasks
 
 **ARHAHA 2026 — Arabic Humor Automatic Generation**
 
