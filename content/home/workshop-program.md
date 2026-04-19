@@ -58,22 +58,30 @@ Opening Remarks
 9. **NAJD-MT: High-Fidelity Saudi Najdi–English Training Data for Bidirectional Neural Machine Translation**  
    Nour Qandos, Samar Essa Ahmed, Omer Nacar, ahmad alrabghi, Rahaf Saeed Al Hallay, Aya Hamod and Shaden Alsuhaim
 
-**Dialects**
+### 11:00 – 12:55 &nbsp;|&nbsp; Session 2: Machine Translation, LLM Applications, Language Resources & Shared Tasks
 
-10. **Parsing Arabic Dialects Revisited: New Benchmarks, Models, and Insights**  
-    Ahmed Farouk Zakaria Elshabrawy, Go Inoue, Muhammed AbuOdeh and Nizar Habash
+**Machine Translation**
+
+8. **ASCAT: An Arabic Scientific Corpus and Benchmark for Advanced Translation Evaluation**  
+   Serry Sibaee, Khloud Al Jallad, Zineb Yousfi, Israa Elsayed Mohamed Elhosiny, Yousra Yousra El-Ghawi, Batool Balah and Omer Nacar
+
+9. **NAJD-MT: High-Fidelity Saudi Najdi–English Training Data for Bidirectional Neural Machine Translation**  
+   Nour Qandos, Samar Essa Ahmed, Omer Nacar, ahmad alrabghi, Rahaf Saeed Al Hallay, Aya Hamod and Shaden Alsuhaim
 
 **LLM Applications & Language Resources**
 
-11. **On LLM Prompting Techniques for Arabic Language Arithmetic Reasoning**  
+10. **On LLM Prompting Techniques for Arabic Language Arithmetic Reasoning**  
     Reem Alenezi and Ayed Atallah Salman
+
+11. **Parsing Arabic Dialects Revisited: New Benchmarks, Models, and Insights**  
+    Ahmed Farouk Zakaria Elshabrawy, Go Inoue, Muhammed AbuOdeh and Nizar Habash
 
 12. **DIA2 - A Comprehensive and Diverse Diacritized Arabic Corpus for NLP Research**  
     Fatima Dekmak, Shady Elbassuoni, Khaled Shaban, Hazem Hajj, Wassim El-Hajj, Yasmine Abu Adla and Buthaina Alabrash
 
 13. **CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech**  
     youssef saidi, Haroun Elleuch and Fethi Bougares
-
+    
 **Shared Tasks**
 
 **ARHAHA 2026 — Arabic Humor Automatic Generation**
