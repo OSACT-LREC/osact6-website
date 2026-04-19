@@ -42,21 +42,23 @@ Opening Remarks
 7. **Helpful or Harmful? The Dual Role of Linguistic Features in LLM-Based Dialectal Machine Translation**  
    Abdelhalim Hafedh Dahou and Mohamed Amine Cheragui
 
-8. **ASCAT: An Arabic Scientific Corpus and Benchmark for Advanced Translation Evaluation**  
-   Serry Sibaee, Khloud Al Jallad, Zineb Yousfi, Israa Elsayed Mohamed Elhosiny, Yousra Yousra El-Ghawi, Batool Balah and Omer Nacar
-
 ---
 
 ### 10:30 – 11:00 &nbsp;|&nbsp; Coffee Break
 
 ---
 
-### 11:00 – 12:55 &nbsp;|&nbsp; Session 2: Dialects, LLM Applications, Language Resources & Shared Tasks
+### 11:00 – 12:55 &nbsp;|&nbsp; Session 2: Machine Translation, Dialects, LLM Applications, Language Resources & Shared Tasks
 
-**Machine Translation & Dialects**
+**Machine Translation**
+
+8. **ASCAT: An Arabic Scientific Corpus and Benchmark for Advanced Translation Evaluation**  
+   Serry Sibaee, Khloud Al Jallad, Zineb Yousfi, Israa Elsayed Mohamed Elhosiny, Yousra Yousra El-Ghawi, Batool Balah and Omer Nacar
 
 9. **NAJD-MT: High-Fidelity Saudi Najdi–English Training Data for Bidirectional Neural Machine Translation**  
    Nour Qandos, Samar Essa Ahmed, Omer Nacar, ahmad alrabghi, Rahaf Saeed Al Hallay, Aya Hamod and Shaden Alsuhaim
+
+**Dialects**
 
 10. **Parsing Arabic Dialects Revisited: New Benchmarks, Models, and Insights**  
     Ahmed Farouk Zakaria Elshabrawy, Go Inoue, Muhammed AbuOdeh and Nizar Habash
