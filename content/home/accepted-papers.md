@@ -49,3 +49,6 @@ design:
 
 14. **CV-18 NER: Augmented Common Voice for Named Entity Recognition from Arabic Speech**  
     youssef saidi, Haroun Elleuch and Fethi Bougares
+
+15.  **When Bigger Isn't Better: Evaluating LLMs for Arabic Sentiment Analysis**  
+   Mohamed Ibrahim, Abdullah Makki, Youssef Barakat, Nour Samy and Sarah AlHumoud
